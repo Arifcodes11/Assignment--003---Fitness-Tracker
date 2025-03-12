@@ -1,4 +1,4 @@
-:  
+
 
 ## 🚀 **Fitness Tracker**  
 
